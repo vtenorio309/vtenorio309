@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">Explorador de código em busca de soluções inovadoras. Transformando café em software desde [seu primeiro commit]. Amante de desafios e apaixonado por tecnologia, meu código é minha arte e meu repositório é um laboratório de ideias. Vamos construir o futuro juntos! 🚀💻</p>
+<p align="left">Explorador de código em busca de soluções inovadoras. Transformando café em software desde 2021 . Amante de desafios e apaixonado por tecnologia, meu código é minha arte e meu repositório é um laboratório de ideias. Vamos construir o futuro juntos! 🚀💻</p>
 
 ###
 
